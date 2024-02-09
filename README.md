@@ -6,7 +6,7 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project I will build such a pipeline.
 
-The final results can be viewed from W&B [https://wandb.ai/johnnie2023/nyc_airbnb?workspace=user-johnnie2023]
+The final results can be viewed from [W&B](https://wandb.ai/johnnie2023/nyc_airbnb?workspace=user-johnnie2023)
 
 ## Table of contents
 
